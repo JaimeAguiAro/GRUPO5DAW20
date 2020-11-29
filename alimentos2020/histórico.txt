@@ -1,0 +1,35 @@
+Participante 1:
+
+-Creación del repositorio en Github.
+-Comando git init en la carpeta del proyecto.
+-Creación de la conexión al proyecto en github (remote add conexion url).
+-Creación de la rama participanteUno con git checkout -b.
+-Adición de la carpeta del proyecto con git add y realizar commit.
+-Creación de la conexión al proyecto en github.
+-Exportación de la rama participanteUno con push.
+-Unión en la rama main, después de añadir el archivo de valoraciones.
+
+Participante 2:
+
+-Descarga del proyecto.
+-Eliminación de archivos para no generar conflictos entre las diferentes ramas, dejando sólo Model.php e instalacion.txt.
+-Comando git init en la carpeta del proyecto.
+-Creación de la rama participanteDos con git checkout -b.
+-Modificación del archivo instalacion.txt con los datos a poner en el archivo Config.php.
+-Adición de la carpeta del proyecto con git add y realizar commit.
+-Creación de la conexión al proyecto en github.
+-Exportación de la rama participanteDos con push.
+
+Participante 3:
+
+-Descarga del proyecto.
+-Eliminación de archivos para no generar conflictos entre las diferentes ramas, dejando sólo web/index.php, app/Controller.php y app/Config.php.
+-Comando git init en la carpeta del proyecto.
+-Creación de la rama participanteTres con git checkout -b.
+-Modificación del archivo Config.php para indicar los datos de conexión con la base de datos.
+-Adición del archivo histórico.txt
+-Adición de la carpeta del proyecto con git add y realizar commit.
+-Creación de la conexión al proyecto en github.
+-Exportación de la rama participanteTres con push.
+
+URL del hosting donde se despliega el proyecto: danicastilleja.es.mialias.net
